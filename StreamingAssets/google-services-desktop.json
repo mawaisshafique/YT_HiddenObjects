@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027481394005",
+    "project_id": "hidden-objects-4d5bc",
+    "storage_bucket": "hidden-objects-4d5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027481394005:android:1a6bfa76688b7849adeddc",
+        "android_client_info": {
+          "package_name": "com.morionstudio.hiddenobject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWmWOcUJ7Hd0tzu3B6Xy8uokuCF5YbzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
